@@ -8,7 +8,7 @@
 - 📫 How to reach me: just send me messages.
 - Studying Atmospheric Science
   
-  [[NaNExist's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaNExist&theme=tokyo-night)]
+  [NaNExist's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaNExist&theme=tokyo-night)
 
 <!---
 NaNExist/NaNExist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
